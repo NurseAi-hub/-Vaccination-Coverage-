@@ -1,8 +1,7 @@
 # 💉 Child Vaccination Coverage & Public Health Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![scikit-learn](https://img.shields.io/badge/Library-scikit-learn-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 ## 📋 Project Overview
 
